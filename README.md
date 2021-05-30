@@ -1,0 +1,49 @@
+### Hi there I am [Omesharma](https://omesh-sharma.github.io/omesharma.github.io/)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<br/>
+
+![twitter-follower](https://img.shields.io/twitter/follow/OmeSharma98?style=social) ![img](https://img.shields.io/youtube/channel/subscribers/UCp2f2mIBhMZpaAmXsHRnr3A?style=social)
+
+---
+
+### Languages and tools ⚙️
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<p>
+
+<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> <img src="data:image/png;base64,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" alt="C/C++ Logo" width="70" height="70"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>
+</p>
+
+<a href="https://github.com/omesh-sharma/omesh-sharma">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omesh-sharma" alt="Omesh's GitHub Stats" />
+</a>
+<!--
+For future use
+<a href="https://www.instagram.com/hemant.gz/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://leetcode.com//">
+  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+-->
+
+---
+<br/>
+
+
+
+<br/>
+<br/>
+
+<!--
+**omesh-sharma/omesh-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
