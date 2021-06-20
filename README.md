@@ -1,4 +1,4 @@
-### Hi there I am [Omesharma](https://omesh-sharma.github.io/omesharma.github.io/)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there I am [Omesharma](https://omesh-sharma.github.io/omesharma/)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/>
 
 ![twitter-follower](https://img.shields.io/twitter/follow/OmeSharma98?style=social) ![img](https://img.shields.io/youtube/channel/subscribers/UCp2f2mIBhMZpaAmXsHRnr3A?style=social)
